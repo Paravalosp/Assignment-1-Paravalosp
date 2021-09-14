@@ -1,0 +1,7 @@
+*.o
+level1_stats/test_find_greater
+level1_stats/test_array_averages
+level2_time/test_time_assign
+level2_time/test_time_diff
+level3_strings/test_string_length
+level3_strings/test_string_copy
