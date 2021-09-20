@@ -1,7 +1,7 @@
 #include "unity.h"
 #include "time.h"
 
-void setUp (void) {}
+void setUp (vcdoid) {}
 void tearDown (void) {}
 
 /**
